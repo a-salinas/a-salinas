@@ -14,8 +14,7 @@ Hi, this is aaron. Just a place to put my works.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="100px" width="50px"/>
     <br />
   </div>
-</body>p
-
+</body>
 
 
 
